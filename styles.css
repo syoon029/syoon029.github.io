@@ -191,7 +191,7 @@ profile-photo .img{
 }
 .about-content ul {
   color:#fff;
-  text-align: justify;
+  text-align: start;
 }
 
 .about-content ul li {
@@ -375,7 +375,7 @@ profile-photo .img{
   margin: 20px 0;
 }
 .project p{
-  text-align: justify;
+  text-align: start;
 }
 .project:hover{
   border-color: #fed700;
